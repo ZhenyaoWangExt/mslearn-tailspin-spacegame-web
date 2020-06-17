@@ -47,4 +47,4 @@ steps:
   inputs:
     command: 'build'
     arguments: '--no-restore --coniguration Release'
-    projects: '**/*.csproj
+    projects: '**/*.csproj'
